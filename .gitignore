@@ -1,0 +1,6 @@
+# Ambientes virtuales ---------------------------------------- 
+.venv
+venv
+.env
+
+# TODO Complementar este gitignore
